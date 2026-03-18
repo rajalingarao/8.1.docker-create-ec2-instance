@@ -1,3 +1,8 @@
+* How to check user_data in ec2 instance.
+```
+cat /var/log/cloud-init-output.log
+```
+
 * Create a ec2 instance for Docker along with docker installation
 
 * Initializes the project and upgrades providers and modules to the latest allowed versions.

@@ -25,3 +25,6 @@ echo "******* Resize EBS Storage ***Done***********"
 echo "************************"
 systemctl status docker
 echo "************************"
+
+
+git clone https://github.com/rajalingarao/8.8.roboshop-docker.git
